@@ -7,7 +7,7 @@
 </div>  
   
 
-- 📚 Atualmente cursando Sistemas de Informação  
+- 📚 Atualmente cursando Sistemas de Informação na FURG
   
 
 - 👩‍💻 Aprendendo React  

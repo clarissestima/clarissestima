@@ -10,7 +10,7 @@
 - 📚 Atualmente cursando Sistemas de Informação na FURG
   
 
-- 👩‍💻 Aprendendo React  
+- 👩‍💻 Aprendendo C  
   
 
 - 🧵 Apaixonada por moda e costura  
